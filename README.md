@@ -63,7 +63,7 @@ kaggle的公开数据：[https://www.kaggle.com/datasnaek/youtube-new](https://w
 
 不同类型视频统计量
 
-![](https://raw.githubusercontent.com/sunandflowering/user_generated_content/master/pic/1.png)
+![](pic/1.png)
 
 **分析：**
 
@@ -71,7 +71,7 @@ kaggle的公开数据：[https://www.kaggle.com/datasnaek/youtube-new](https://w
 
 **不同类别视频的最大播放量，并找出此视频id以及播放量**
 
-![](https://raw.githubusercontent.com/sunandflowering/user_generated_content/master/pic/2.png)
+![](pic/2.png)
 
 **分析：**
 
@@ -81,11 +81,11 @@ kaggle的公开数据：[https://www.kaggle.com/datasnaek/youtube-new](https://w
 
 **不同类别视频的播放总量**
 
-![](https://raw.githubusercontent.com/sunandflowering/user_generated_content/master/pic/3.png)
+![](pic/3.png)
 
 **不同类别视频的平均播放量**
 
-![](https://raw.githubusercontent.com/sunandflowering/user_generated_content/master/pic/4.png)
+![](pic/4.png)
 
 **分析：**
 
@@ -97,11 +97,11 @@ kaggle的公开数据：[https://www.kaggle.com/datasnaek/youtube-new](https://w
 
 **不同类别视频观看量箱型图比较**
 
-![](https://raw.githubusercontent.com/sunandflowering/user_generated_content/master/pic/5.png)
+![](pic/5.png)
 
 **什么类型的视频上榜次数最多**
 
-![](https://raw.githubusercontent.com/sunandflowering/user_generated_content/master/pic/6.png)
+![](pic/6.png)
 
 **分析：**
 
@@ -109,7 +109,7 @@ kaggle的公开数据：[https://www.kaggle.com/datasnaek/youtube-new](https://w
 
 **不同类型视频上榜次数箱型图比较**
 
-![](https://raw.githubusercontent.com/sunandflowering/user_generated_content/master/pic/7.png)
+![](pic/7.png)
 
 **分析：**
 
@@ -132,7 +132,7 @@ kaggle的公开数据：[https://www.kaggle.com/datasnaek/youtube-new](https://w
 
 **视频发布量随时间的变化趋势**
 
-![](https://raw.githubusercontent.com/sunandflowering/user_generated_content/master/pic/8.png)
+![](pic/8.png)
 
 **分析：**
 
@@ -140,7 +140,7 @@ kaggle的公开数据：[https://www.kaggle.com/datasnaek/youtube-new](https://w
 
 **视频的发布时间与首次上榜时间之间的关系，视频发布与第一次上榜的时间差**
 
-![](https://raw.githubusercontent.com/sunandflowering/user_generated_content/master/pic/9.png)
+![](pic/9.png)
 
 **分析：**
 
@@ -148,7 +148,7 @@ kaggle的公开数据：[https://www.kaggle.com/datasnaek/youtube-new](https://w
 
 **不同类别视频首次上榜时间的比较**
 
-![](https://raw.githubusercontent.com/sunandflowering/user_generated_content/master/pic/10.png)
+![](pic/10.png)
 
 **分析：**
 
@@ -158,19 +158,19 @@ kaggle的公开数据：[https://www.kaggle.com/datasnaek/youtube-new](https://w
 
 **视频的观看，喜欢，不喜欢，评论之间的转化，不同类别视频的转化率，不同视频的转化率**
 
-![](https://raw.githubusercontent.com/sunandflowering/user_generated_content/master/pic/11.png)
+![](pic/11.png)
 
-![](https://raw.githubusercontent.com/sunandflowering/user_generated_content/master/pic/12.png)
+![](pic/12.png)
 
-![](https://raw.githubusercontent.com/sunandflowering/user_generated_content/master/pic/13.png)
+![](pic/13.png)
 
-![](https://raw.githubusercontent.com/sunandflowering/user_generated_content/master/pic/14.png)
+![](pic/14.png)
 
 **分析：**
 
 **观看、喜欢、不喜欢、评论之间的关系**
 
-![](https://raw.githubusercontent.com/sunandflowering/user_generated_content/master/pic/15.png)
+![](pic/15.png)
 
 **分析：**
 
@@ -178,7 +178,7 @@ kaggle的公开数据：[https://www.kaggle.com/datasnaek/youtube-new](https://w
 
 颜色越浅表示有明显的正相关，观看和喜欢之间，喜欢和评论数之间有明显的正相关。
 
-![](https://raw.githubusercontent.com/sunandflowering/user_generated_content/master/pic/16.png)
+![](pic/16.png)
 
 
 ### 建议：
